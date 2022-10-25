@@ -1,1 +1,14 @@
+Digital production and logistics systems [146004]
+Project delivery
 
+The project is an Automod simulation of a drive-in.
+
+The complete description of the project can be found in the file named "technical report.pdf" of this same folder.
+
+Ad-hoc 3D models were developed for the project, which must be inserted manually in the respective Automod folder before the execution. 
+The steps to follow to include them are:
+- access the "custom models" folder of the current directory
+- copy all models contained in this folder into the appropriate Automod folder (which is usually located at the path "C:\AutoMod\12_6\demos\graphics\cell").
+Once these steps have been performed, the project can be executed correctly.
+
+The folder "python scripts" includes the code to generate the data we used during the simulations. More details about these scripts can be found in the report.

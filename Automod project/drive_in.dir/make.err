@@ -1,0 +1,19 @@
+Processing build commands for the model drive_in...
+drive_in~model.c
+drive_in~init1.c
+p_init_read_inputa.c
+p_persona.c
+p_cara.c
+p_menua.c
+p_menu_generatora.c
+p_order_rooma.c
+p_init_stocka.c
+p_stocka.c
+p_inita.c
+p_menul.c
+p_init_outputa.c
+Linking drive_in.dll...
+   Creating library drive_in.lib and object drive_in.exp
+Generating drive_in.exe...
+        1 file copiati.
+

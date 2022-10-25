@@ -1,0 +1,17 @@
+VERSION 12.6.1.12
+UNITS Meters Seconds
+RNSET 1
+DRAWPOS minx -12.173869 maxx 22.196466 miny -7.1029445 maxy 15.850001 minz -2.48533125 maxz 3.26504925 trx 0 try 0
+MOVESYS name conv
+	SYSPOS begx -1.5 begy -1 begz 1.2 endx -0.5 endy -1 endz 1.2
+MOVESYS name conv_car
+	SYSPOS endx 1
+MOVESYS name conv_person
+	SYSPOS endx 1
+MOVESYS name restock
+	SYSPOS endx 1
+MOVESYS name waiter
+	SYSPOS endx 1
+PROCSYS name drive_in~
+	SYSPOS begy 0.6 endx 1 endy 0.6
+CONTROL snaplen 6 Hours counts 4 autorep reset
