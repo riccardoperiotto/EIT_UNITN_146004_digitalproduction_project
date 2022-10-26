@@ -1,4 +1,4 @@
-#  Digital production and logistics systems mod. 2 [146004]#
+#  Digital production and logistics systems mod. 2 [146004]
 ## Project
 
 Delivered project for the Digital Production and logistics systems mod. 2 course of the master degree in Autonomous System (EIT), University of Trento.
