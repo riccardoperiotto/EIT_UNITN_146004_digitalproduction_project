@@ -13,6 +13,6 @@ The steps to follow to include them are:
 - copy all models contained in this folder into the appropriate Automod folder (which is usually located at the path "C:\AutoMod\12_6\demos\graphics\cell").
 Once these steps have been performed, the project can be executed correctly.
 
-The folder "python scripts" includes the code to generate the data we used during the simulations. More details about these scripts can be found in the report.
+The folder "Python scripts" includes the code to generate the data we used during the simulations. More details about these scripts can be found in the report.
 
 
