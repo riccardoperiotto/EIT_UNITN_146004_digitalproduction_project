@@ -4,7 +4,6 @@
 Delivered project for the Digital Production and logistics systems mod. 2 course of the master degree in Autonomous System (EIT), University of Trento.
 
 The project aim was to create a digital twin of a production system using the simulation software Automod. 
-The project was assigned at the end of the course and the minimal requirements are shared in this same repository as a pdf.
 The whole description of the project is contained in the file named "technical report.pdf" of this same repository.
 The underlying production system is a drive-in and the main points we focused on are: the production process itself, the order and menu management, the menu delivery, the restocking policy for the production station and the overall waiting time reduction.
 
