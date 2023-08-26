@@ -8,7 +8,7 @@ Collaborators:
 - [Giacomo Mutti](https://github.com/muttigiacomo)
 - [Mattia Sartori](https://github.com/matsarto99)
 
-# Description
+## Description
 The project aim was to create a digital twin of a production system using the simulation software Automod. 
 The whole description of the project is contained in the "technical report.pdf" file included in the repository.
 
